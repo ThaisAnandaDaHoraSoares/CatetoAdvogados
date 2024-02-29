@@ -1,0 +1,9 @@
+.ps-7 {
+    padding-left: 7rem;
+}
+
+@media (min-width: 992px) {
+    .ps-lg-12 {
+        padding-left: 12rem;
+    }
+}
